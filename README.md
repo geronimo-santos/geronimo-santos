@@ -21,9 +21,9 @@
   
   <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1212%2Fhit-counter'/>
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=geronimo-santos&theme=minimal"/> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geronimo-santos&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geronimo-santos&theme=vue&theme=dark"/>
   
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geronimo-santos"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=geronimo-santos"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geronimo-santos&theme=blue-green"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=geronimo-santos&theme=blue-green"/>
  
