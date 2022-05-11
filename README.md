@@ -2,7 +2,7 @@
   <a href="https://github.com/geronimo-santos">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geronimo-santos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
- <br><br>
+
     
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geronimo-santos&layout&langs_=7&theme=highcontrast"/>
  <br>
@@ -19,9 +19,11 @@
   <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
   
+  <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1212%2Fhit-counter'/>
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=geronimo-santos&theme=minimal"/> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geronimo-santos&theme=vue"/>
   
   
-  
-  
-  
-  <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter'/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geronimo-santos"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=geronimo-santos"/>
+ 
