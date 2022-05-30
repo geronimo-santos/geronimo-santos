@@ -2,10 +2,10 @@
 
   <a href="https://github.com/geronimo-santos">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geronimo-santos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geronimo-santos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
     
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geronimo-santos&layout&langs_=7&theme=highcontrast"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geronimo-santos&layout&langs_=7&theme=chartreuse-dark"/>
  <br>
 <!--   <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/> -->
   <img src='https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white'/>
@@ -21,7 +21,7 @@
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
   <img src='https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white'/>
   <img src='https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important'/>
-  <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=dark'/>
 <!--   <img src=''/> -->
   
   
@@ -30,8 +30,8 @@
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geronimo-santos&theme=vue&theme=dark"/>
    -->
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geronimo-santos&theme=blue-green"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=geronimo-santos&theme=blue-green"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geronimo-santos&theme=chartreuse-dark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=geronimo-santos&theme=blue-chartreuse-dark"/>
   
 <!--   <p>
   🧔 Moi c'est <bold>Stan</bold>. 23 ans, barbu et un amateur de code et de 🍺.<br/>
